@@ -287,7 +287,8 @@ const allQuotes = [
     album: "Red",
   },
   {
-    quote: "Photo album on the counter / Your cheeks were turning red / You used to be a little kid in glasses in a twin-sized bed",
+    quote:
+      "Photo album on the counter / Your cheeks were turning red / You used to be a little kid in glasses in a twin-sized bed",
     song: "All Too Well",
     album: "Red",
   },
@@ -1362,7 +1363,7 @@ const allQuotes = [
   },
   {
     quote: "They say that if it's right, you know",
-    song: "Hits Differents",
+    song: "Hits Different",
     album: "Midnights",
   },
 ];
